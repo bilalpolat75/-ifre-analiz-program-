@@ -1,9 +1,5 @@
 import java.util.Scanner;
-/*
-Öğrenci numarası = 250706045
-Ad = Bilal
-Soyad = Polat
- */
+
 
 public class Main {
     public static final String bıtıskelımesı = "BİTİR";
